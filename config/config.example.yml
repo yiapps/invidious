@@ -9,3 +9,4 @@ db:
 full_refresh: true
 https_only: true
 domain: distropeer.com
+external_port: 443
